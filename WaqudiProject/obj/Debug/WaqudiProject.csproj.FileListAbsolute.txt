@@ -1,0 +1,4 @@
+C:\Users\pc\Desktop\Waqudi Projct\waqudi\WaqudiProject\WaqudiProject\bin\WaqudiProject.dll
+C:\Users\pc\Desktop\Waqudi Projct\waqudi\WaqudiProject\WaqudiProject\bin\WaqudiProject.pdb
+C:\Users\pc\Desktop\Waqudi Projct\waqudi\WaqudiProject\WaqudiProject\obj\Debug\WaqudiProject.dll
+C:\Users\pc\Desktop\Waqudi Projct\waqudi\WaqudiProject\WaqudiProject\obj\Debug\WaqudiProject.pdb

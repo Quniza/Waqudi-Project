@@ -1,0 +1,71 @@
+﻿
+/* 
+font-family: 'Aref Ruqaa', serif;
+font-family: 'Cairo', sans-serif;
+font-family: 'Tajawal', sans-serif;
+*/
+:root
+{
+   --clr-White: #fff;     
+}
+
+*{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'cairo', sans-serif;
+}
+
+
+body{
+    background-color: #f8f9fa;
+}
+
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000000;
+    border-radius: 10px;
+}
+
+footer
+{
+    background-color: #83838333;
+}
+
+
+
+.col-md-8,.col-sm-8 {
+    margin: 0 auto;
+}
+
+.navbar-toggler:focus 
+{
+    box-shadow: none;
+    outline: none;
+}
+
+footer
+{
+    /* padding-bottom: 0; */
+    position: relative;
+    bottom: 0;
+    top: 100%;
+}
+
+
+
+@media (prefers-color-scheme: dark) {
+    
+}
+
+/* Login Page Style */
+ .body
+{
+    background-color: #333;  
+}
